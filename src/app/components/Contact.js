@@ -60,7 +60,7 @@ const Contact = () => {
 
           {/* GitHub */}
           <a
-            href="https://github.com/mohith-hub"
+            href="https://github.com/Venkata-Mohith"
             className="hover:text-teal-600 flex items-center gap-2"
           >
              <svg
